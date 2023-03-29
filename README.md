@@ -1,6 +1,6 @@
 
 <img align="right" height="590em" src="https://user-images.githubusercontent.com/38535003/154815077-f4a170f2-1b82-404e-b8f1-949b002e5542.png"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Lourenço</h1>
+<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Lourenço</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagosilvalourenco&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Web developer focused on solving problems and developing solutions 
