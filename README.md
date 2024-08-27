@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS and PHP**
 
-- ⚡ Graduated in systems analysis and development since 2018
+
 
 <br><br>
 
